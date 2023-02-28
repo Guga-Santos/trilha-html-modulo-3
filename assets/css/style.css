@@ -36,3 +36,15 @@ a { color:blue; text-decoration: none;}
 figure {
     text-align: center;
 }
+
+td {
+    padding: 3px;
+}
+
+tr:nth-child(odd) {
+    background-color: #ccc;
+}
+
+.logo {
+    height: 200px;
+}
